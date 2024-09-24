@@ -20,7 +20,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing e-commerce shops and handy automation tools.**
-- 🌱 I'm currently learning: **📚 Exploring NextJs**
+- 🌱 I'm currently learning: **📚 NextJs**
 - 💬 Ask me about: **💡 JavaScript, Nginx, PHP, and RESTful APIs**
 
  **<h3 align="left">Skills</h3>**
