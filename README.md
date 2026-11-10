@@ -1,15 +1,30 @@
-## 🔄 PX to REM Converter
+Hi, I'm Dulshad. I keep six webshops in five countries running, and I build
+the AI tooling around them.
 
-A lightweight Chrome extension that instantly converts pixel values to REM units.
+Senior Engineer at Keesing Media Group, Amsterdam. Magento 2, Hyvä, and a
+growing amount of LLM plumbing.
 
-**[🚀 Install from Chrome Web Store](https://chromewebstore.google.com/detail/px-to-rem-converter/hhgliakdljncogghkpplmflmeokgbhac)**
+### Things I've come to believe
 
-Simplify your CSS workflow and create more accessible, responsive web layouts with this handy conversion tool. Perfect for modern frontend development where scalable typography and spacing are essential.
+**An LLM shouldn't talk to your customers.**
+In the shopping assistant I built, the model only picks which tool to call.
+Every sentence a customer reads is written by code. 26 injection and abuse
+attempts, 0 got through, at about $0.003 per chat.
 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Chrome Extension](https://img.shields.io/badge/-Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+**Standards belong in tooling, not in someone's head.**
+Our PR review, ticket refinement and release steps are skills that any
+developer or agent can run. Median bug cycle time went from 30 days to 8.
 
+**An alert you haven't backtested is a guess.**
+The order-drop alerts on our monitoring console were replayed against
+13 months of real orders before they went live.
 
-![Profile views](https://komarev.com/ghpvc/?username=dulshad&label=Profile%20views&color=0e75b6&style=flat)
+**The best migration is the one nobody notices.**
+Six shops moved from an agency to in-house hosting six weeks ahead of plan.
+Search moved from paid modules to Elasticsearch with no SEO loss.
 
+### Ask me about
+Zero-downtime Magento deploys · Hyvä checkout · tool-only LLM design ·
+getting Claude Code to review PRs against your own standards
+
+Most of my code lives in private repos. [LinkedIn](https://www.linkedin.com/in/dulshad-faraj/)
