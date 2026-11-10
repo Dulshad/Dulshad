@@ -31,7 +31,9 @@ Six shops moved from an agency to in-house hosting six weeks ahead of plan.
 Search moved from paid modules to Elasticsearch with no SEO loss.
 
 ### Ask me about
-Zero-downtime Magento deploys · Hyvä checkout · tool-only LLM design ·
-getting Claude Code to review PRs against your own standards
+- Using AI effectively inside a team's delivery process
+- Putting team standards into tooling so a new developer is up to speed in a month
+- Bringing a platform back in-house from an agency
+- Monitoring that answers business questions, not server questions
 
 Most of my code lives in private repos. [LinkedIn](https://www.linkedin.com/in/dulshad-faraj/)
